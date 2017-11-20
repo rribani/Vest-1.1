@@ -6,7 +6,11 @@ First version of the Vest running in Linux
     - Send data to motors through the /dev/ttyACM0
     
 To build:
-
+```
+$ cmake .
+$ make
+```
+To run:
 ```
 $ cmake .
 $ make
