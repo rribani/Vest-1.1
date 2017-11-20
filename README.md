@@ -7,6 +7,8 @@ First version of the Vest running in Linux
     
 To build:
 
+```
 $ cmake .
 $ make
 $ sudo ./vest-1
+```
