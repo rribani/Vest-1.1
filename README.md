@@ -1,8 +1,7 @@
-# Vest-1-Linux
+# Vest-1.1
 
-First version of the Vest running in Linux
-- Activate all motors if a face is detected
-- Send data to motors through the /dev/ttyACM0
+Version 1.1 of the Vest running in Linux
+- TBD
     
 To build:
 ```
@@ -13,5 +12,5 @@ To run:
 ```
 $ cmake .
 $ make
-$ sudo ./vest-1
+$ sudo ./vest-1.1
 ```
